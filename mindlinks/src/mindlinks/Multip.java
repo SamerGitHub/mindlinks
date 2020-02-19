@@ -1,3 +1,4 @@
+package mindlinks;
 
 public class Multip {
 	int a ;
