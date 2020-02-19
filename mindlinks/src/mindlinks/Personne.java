@@ -10,5 +10,4 @@ public class Personne {
 		 this.age=age;
 		 this.prenom=prenom;
 	 }
-
 }
