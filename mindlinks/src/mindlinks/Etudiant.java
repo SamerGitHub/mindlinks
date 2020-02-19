@@ -1,6 +1,6 @@
 package mindlinks;
 
-public class Etudiant    {
+
 
 public class Etudiant extends Personne  {
 public int numCarteEtudiant;
