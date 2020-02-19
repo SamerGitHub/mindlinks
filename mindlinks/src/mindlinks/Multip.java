@@ -2,7 +2,7 @@
 public class Multip {
 	int a ;
 	int b ; 
-	public Multiplication (int a , int b ) {
+public Multip (int a , int b ) {
 		this.a = a ;
 		this.b = b ;
 	}
