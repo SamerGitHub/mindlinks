@@ -10,13 +10,14 @@ public class Personne {
 	 public Personne(String nom , String prenom , int j, int m ,int ann)
 	 {
 		 this.nom=nom;
-			{ this.j=j;
+			 this.j=j;
 			this.m=m;
 			this.ann=ann;
-		 this.prenom=prenom;
+		  this.prenom=prenom;
 	 }
 			public int age (int ann ) {
 				return 2020-ann;
 				
 			}
 }
+
