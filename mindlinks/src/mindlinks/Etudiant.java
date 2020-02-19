@@ -1,8 +1,8 @@
 package mindlinks;
 
 public class Etudiant   {
-private int numCarteEtudiant;
-Etudiant(int numCarteEtudiant)
+public int numCarteEtudiant;
+public Etudiant(int numCarteEtudiant)
 {
 	this.numCarteEtudiant=numCarteEtudiant ;
 	
